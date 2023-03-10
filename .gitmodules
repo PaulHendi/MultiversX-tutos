@@ -1,0 +1,3 @@
+[submodule "mx-ping-pong-sc"]
+	path = mx-ping-pong-sc
+	url = https://github.com/multiversx/mx-ping-pong-sc
